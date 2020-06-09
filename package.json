@@ -1,7 +1,7 @@
 {
-  "name": "amazona",
+  "name": "dukan.pk",
   "version": "1.0.0",
-  "description": "Demo : https://amazonaapp.herokuapp.com/",
+  "description": "Webapp project",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.19.0",
