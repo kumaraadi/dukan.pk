@@ -90,7 +90,7 @@ function App() {
 
         </main>
         <footer className="footer">
-          All right reserved.
+          All right reserved @ Anand Corporation
     </footer>
       </div>
     </BrowserRouter>
